@@ -1,5 +1,0 @@
-C:/Users/pc/Documents/VsCode/CubeMXtest/CMakeFiles/CubeMxTest.dir
-C:/Users/pc/Documents/VsCode/CubeMXtest/CMakeFiles/edit_cache.dir
-C:/Users/pc/Documents/VsCode/CubeMXtest/CMakeFiles/rebuild_cache.dir
-C:/Users/pc/Documents/VsCode/CubeMXtest/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
-C:/Users/pc/Documents/VsCode/CubeMXtest/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
