@@ -1,3 +1,0 @@
-C:/Users/pc/Documents/VSCode_V1/EmptyTest/build/debug/CMakeFiles/EmptyTest.dir
-C:/Users/pc/Documents/VSCode_V1/EmptyTest/build/debug/CMakeFiles/edit_cache.dir
-C:/Users/pc/Documents/VSCode_V1/EmptyTest/build/debug/CMakeFiles/rebuild_cache.dir
